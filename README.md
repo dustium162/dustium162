@@ -28,4 +28,4 @@
 - ⚡ Fun fact:
   - I'm interested in competiting programming.
   - I'm a supporter of Urawa Red Diamonds.
-  
+  - I can not write or speak (and sometimes even read or listen to) English.
