@@ -5,7 +5,7 @@
   - a personal developer of [footlog](https://footlog.net).
 
 - 🤔 I’m looking for help with
-  - learning how to skill up or what to learn about to become a great developer.
+  - learning how to improve skill or what to learn about to become a great developer.
   - development of footlog.
 
 - 🌱 I’m currently learning
