@@ -29,3 +29,4 @@
   - I'm interested in competiting programming.
   - I'm a supporter of Urawa Red Diamonds.
   - I can not write or speak (and sometimes even read or listen to) English.
+  - This is my best-efforted English I can write.
