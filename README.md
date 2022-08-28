@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on development of web application as
+- 🔭 I’m currently working on development of web applications as
   - a backend engineer of [TimeTree, Inc](https://timetreeapp.com/intl).
   - a personal developer of [footlog](https://footlog.net).
 
